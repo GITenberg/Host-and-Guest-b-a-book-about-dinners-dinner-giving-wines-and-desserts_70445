@@ -1,0 +1,34 @@
+_repo: Host-and-Guest-b-a-book-about-dinners-dinner-giving-wines-and-desserts_70445
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kirwan, A. V. (Andrew Valentine)
+    alias: Kirwan, Andrew Valentine
+    birthdate: 1804
+    deathdate: 1870
+    gutenberg_agent_id: '55763'
+    url: http://www.gutenberg.org/2009/agents/55763
+description: ''
+gutenberg_issued: '2023-04-02'
+identifiers:
+  gutenberg: '70445'
+  lccn: 07025917
+language: en
+pgterms:marc904: https://archive.org/details/b21527544
+pgterms:marc905: 20210710035218kirwan
+pgterms:marc906: '1864'
+pgterms:marc907: GB
+production_note: MWS, Karin Spence and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bBell & Daldy, $c1864.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wine and wine making'
+- !lcsh 'Dinners and dining'
+- !lcc 'TX'
+- GITenberg
+title: 'Host and Guest : $b a book about dinners, dinner-giving, wines, and desserts'
+url: http://www.gutenberg.org/ebooks/70445
